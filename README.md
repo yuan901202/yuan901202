@@ -15,10 +15,10 @@
 
 ## I'm a Programmer, Developer, and Coffee Lover!
 
-- 🔭 I’m currently working on a [e-commerce online shopping website](https://addincoffee.com)!
+- 🔭 I’m currently working on three e-commerce online shopping websites [Coffee Tech](https://coffee-tech.co.nz), [HAVE Coffee](https://havecoffee.co.nz), [Legend Coffee Roaster](https://legend-coffee.com)
 - 🌱 I’m currently learning everything (yeah, basicly everything 🤣)
 - 👯 I’m looking to collaborate with other website developers
-- 🥅 2020 Goals: get a job and live in this troubled world
+- 🥅 2021 Goals: live in this troubled world
 - ⚡ Fun fact: I love to pencil sketch and photographing
 
 ---
