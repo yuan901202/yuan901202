@@ -23,12 +23,6 @@
 
 ---
 
-## Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tony Spotify Playing" />](https://open.spotify.com/user/1270094280)
-
----
-
 ## GitHub Stats
 
 [![Tony Yuan's github stats](https://github-readme-stats.vercel.app/api?username=yuan901202&show_icons=true)](https://github.com/yuan901202)
