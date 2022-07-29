@@ -15,10 +15,9 @@
 
 ## I'm a Programmer, Developer, and Coffee Lover!
 
-- 🔭 I’m currently working on three e-commerce online shopping websites [Coffee Tech](https://coffee-tech.co.nz), [HAVE Coffee](https://havecoffee.co.nz), [Legend Coffee Roaster](https://legend-coffee.com)
-- 🌱 I’m currently learning everything (yeah, basicly everything 🤣)
+- 🌱 I’m currently learning data analysis
 - 👯 I’m looking to collaborate with other website developers
-- 🥅 2023 Goals: live in this wild world
+- 🥅 2023 Goals: Don't get Covid!
 - ⚡ Fun fact: I love to pencil sketch and photographing
 
 ---
