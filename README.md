@@ -1,4 +1,4 @@
-### Kia Ora and Hello, I'm [Tony](https://tony-yuan.tk), a website developer and coffee enthusiast 👋
+### Kia Ora and Hello, I'm Tony, a website developer and coffee enthusiast live in Auckland, New Zealand 👋
 
 <p align="left">
 <a href="https://github.com/yuan901202"><img src="https://img.shields.io/github/followers/yuan901202?style=social" alt="GitHub"></a>
